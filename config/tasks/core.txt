@@ -1,0 +1,55 @@
+{
+	// Сколько времени доступно на одно состо¤ние в мс.
+	"open_page_timeout": 4000, 				// 1000*4
+	"watchdog_timeout": 15000,				// 1000*15
+	"load_page_timeout": 20000,				// 1000*20
+	
+	"battle_timeout": 180000,			// 1000*60*3
+	"arena_loop_timeout": 120000,			// 1000*60*2
+	"arena_find_timeout": 600000,			// 1000*60*10
+	
+	"arena_squad_mode_pause": 1000,
+	"arena_start_phase_pause": 3000, 		// 1000*3
+	"arena_open_opponent_timeout": 2000, 			// 1000*2
+	
+	"battle_few_hp_pause": 2000,			// 
+	"gate_choose_boss_pause": 2000, 		// 1000*2
+	
+	"friends_send_timeout": 2000,			// 1000*2
+	"friends_send_pause": 2000,			// 1000*2
+	"friends_scroll_pause": 2000,			// 1000*2
+	"cw_place_timeout": 2000,			// 1000*2
+	"cw_check_timeout": 2000,			// 1000*2
+	"invasion_check_timeout": 2000,			// 1000*2
+	"enemy_find_timeout": 2000, 			// 1000*2
+	
+	"mail_take_pause": 1000, 				// 1000*1
+	"quests_take_reward_pause": 2000, 			// 1000*2
+	"quests_open_record_pause": 2000, 			// 1000*2
+	
+	"ads_watch_timeout": 40000, 			// 1000*40
+	"ads_close_timeout": 20000, 			// 1000*20
+	"ads_press_esc_pause": 2000, 			// 1000*2
+	
+	
+	// Время на завершение и запуск эмулятора в мс. 
+	"emulator_stop_timeout": 5000, 			// 1000*5
+	"emulator_start_timeout": 5000,			// 1000*5
+	"emulator_start_pause": 90000,			// 1000*30*1
+	
+	"main_pause": 2000,						// 1000*2
+	"another_device_timeout": 300000,		// 1000*60*5
+	
+	"recovery_open_game_timeout": 10000,	
+	"recovery_press_esc_pause": 2000,	
+	"recovery_press_close_pause": 2000,	
+	"recovery_loop_timeout": 30000,	
+	"recovery_main_pause": 2000,			// 1000*2
+	
+	"blacklist_hours": 72, 
+	"max_collection_attempts": 10, 	
+	
+	"return_apple_ads": true,
+	
+	"request_resources_timeleft": 240,
+}

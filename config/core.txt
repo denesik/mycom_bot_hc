@@ -1,0 +1,46 @@
+{	
+	"page_info": 
+	{
+		"name": true,
+		"dynamic": false,
+		"static": false,
+		"lifetime": false,
+	},
+	"unknown_screenshotter": 
+	{
+		"enable": false,
+	},
+	"detector_fps": 5,
+	"statistic": true,
+	"file_logger": 
+	{
+		"enable": false,
+		"compressed": true,
+		"store_time": 72,
+		"level": 
+		{
+			"full": true,
+			"partly": true,
+			"error": true,
+			"stop": true,
+			"condition": true,
+			"unavailable": true,
+			"unknown": true,
+		},
+	},
+	"video_logger": 
+	{
+		"enable": false,
+		"store_time": 72,
+		"level": 
+		{
+			"full": true,
+			"partly": true,
+			"error": true,
+			"stop": true,
+			"condition": true,
+			"unavailable": true,
+			"unknown": true,
+		},
+	},
+}

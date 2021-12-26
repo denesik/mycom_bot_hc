@@ -1,0 +1,10 @@
+{
+	"task_enabe": true,
+	"success_launch_max_day": 2,
+	"success_launch_max_zone": 0,
+	"lock_unavailable_launch": true,
+	"finished_pause": 0,
+	"success_pause": 80000,
+	"check_quests_after_success": false,
+	"run_if_few_resources": true,
+}

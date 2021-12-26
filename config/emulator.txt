@@ -1,0 +1,4 @@
+{	
+	"game_application": "com.my.hc.rpg.kingdom.simulator/com.my.hustlecastle.HustleCastleActivity",
+	"emulator_type": "bluestacks",
+}

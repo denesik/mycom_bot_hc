@@ -1,0 +1,8 @@
+{
+    "game_application": "com.my.hc.rpg.kingdom.simulator/com.my.hustlecastle.HustleCastleActivity",
+    "background_mode": false,
+    "emulator_path": "",
+    "emulator_name": "BlueStacks",
+    "emulator_type": "bluestacks",
+    "emulator_instance": 0
+}

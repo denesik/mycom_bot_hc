@@ -1,0 +1,17 @@
+{
+	"task_enabe": true,
+	"success_launch_max_day": 1,
+	"success_launch_max_zone": 1,
+	"lock_unavailable_launch": true,
+	"request_missing_resources": true,
+	"ignore_request_resources": true,
+	"finished_pause": 0,
+	"success_pause": 0,
+	"check_quests_after_success": false,
+	"run_if_few_resources": false,
+	
+	"battle_defeat_ads": true,
+	"ignore_few_spell": true,
+    "ignore_few_squad": true,
+	"ignore_few_hp": false,
+}

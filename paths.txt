@@ -1,0 +1,37 @@
+{
+	"basic":
+	{
+		"profiles_dir": "profiles", 
+		"config_dir": "config",
+		"data_dir": "data",
+		"pages_dir": "data\\pages",
+		"sounds_dir": "data\\sounds",
+		"capcha_sounds_dir": "data\\sounds\\capcha",
+		"train_dir": "traindata",
+		"config_tasks_dir": "config\\tasks",
+
+		"train_file": "traindata\\train.xml",
+		"capcha_core_file": "config\\capcha.txt", 
+		"emulator_core_file": "config\\emulator.txt", 
+		"program_core_file": "config\\program.txt", 
+		"core_settings_core_file": "config\\core.txt", 
+		
+		"client_core_file": "config\\client.txt", 
+		"auth_core_file": "config\\auth.txt", 
+	},
+	"profile":
+	{
+		"screenshots_dir": "screenshots",
+		"unknowns_screenshots_dir": "unknowns",
+		"capcha_user_file": "capcha.txt", 
+		"emulator_user_file": "emulator.txt", 
+		"program_user_file": "program.json", 
+		"core_settings_user_file": "core.json", 
+		"log_user_file": "log.txt", 
+		"log_user_dir": "logs",
+		"statistic_file": "statistic.txt",
+		"journal_user_file": "journal.txt",
+		
+		"auth_user_file": "auth.txt", 
+	},
+}

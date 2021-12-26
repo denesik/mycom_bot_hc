@@ -1,0 +1,21 @@
+{
+	"task_enabe": true,
+	"success_launch_max_day": 0,
+	"success_launch_max_zone": 0,
+	"lock_unavailable_launch": false,
+	"request_missing_resources": false,
+	"ignore_request_resources": false,
+	"finished_pause": 0,
+	"success_pause": 0,
+	"check_quests_after_success": false,
+	"run_if_few_resources": false,
+	
+	"choice_squad_mode": 0,
+	
+	"arena_buy_apple": false,
+	"arena_buy_ticket": false,
+	"arena_check_mail": true,
+	"arena_mode": 0,
+	"arena_power_scale_min": 100,
+	"arena_power_scale_max": 200,
+}
