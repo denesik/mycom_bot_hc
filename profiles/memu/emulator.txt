@@ -1,6 +1,6 @@
 {
     "game_application": "com.my.hc.rpg.kingdom.simulator/com.my.hustlecastle.HustleCastleActivity",
-    "background_mode": false,
+    "background_mode": true,
     "emulator_path": "",
     "emulator_name": "MEmu",
     "emulator_type": "memu",

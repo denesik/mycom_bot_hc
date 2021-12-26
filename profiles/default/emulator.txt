@@ -1,7 +1,7 @@
 {
     "game_application": "com.my.hc.rpg.kingdom.simulator/com.my.hustlecastle.HustleCastleActivity",
-    "background_mode": false,
-    "emulator_path": "",
+    "background_mode": true,
+    "emulator_path": "C:\\Program Files\\BlueStacks_nxt\\HD-Player.exe",
     "emulator_name": "BlueStacks",
     "emulator_type": "bluestacks",
     "emulator_instance": 0
