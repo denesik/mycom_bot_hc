@@ -1,6 +1,6 @@
 {
     "file_logger": {
-        "enable": true,
+        "enable": false,
         "compressed": true,
         "store_time": 72,
         "level": {

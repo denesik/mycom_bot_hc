@@ -1,4 +1,0 @@
-{
-    "sound_name": "Buzzer",
-    "sound_volume": 100
-}
