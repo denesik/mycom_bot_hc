@@ -561,7 +561,8 @@
         "vcruntime140_1.dll",
         "version.txt",
         "wxbase315u_vc14x_x64.dll",
-        "wxmsw315u_core_vc14x_x64.dll"
+        "wxmsw315u_core_vc14x_x64.dll",
+        "wxmsw315u_html_vc14x_x64.dll"
     ],
     "user_dirs": [
         "profiles",
