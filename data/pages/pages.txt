@@ -1,4 +1,4 @@
-capcha
+captcha
 main
 clan_territory
 map

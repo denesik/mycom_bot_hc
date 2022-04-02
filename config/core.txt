@@ -10,6 +10,8 @@
 	{
 		"enable": false,
 	},
+	"autorun_mode": false,
+	"stop_emulator_mode": false,
 	"detector_fps": 5,
 	"statistic": true,
 	"file_logger": 

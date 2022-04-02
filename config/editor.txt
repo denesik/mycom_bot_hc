@@ -1,0 +1,10 @@
+{
+    "window_pos": 
+	{
+        "x": 0,
+        "y": 0,
+        "w": 870,
+        "h": 770
+    },
+	"show_capture_mode": false
+}

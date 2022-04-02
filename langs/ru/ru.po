@@ -1,0 +1,458 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"POT-Creation-Date: 2022-04-02 23:38+0300\n"
+"PO-Revision-Date: \n"
+"PO-Revision-Date: 2022-04-02 23:38+0300\n"
+"Last-Translator: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n"
+"%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ../../../src/editor\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: EditorAdditionallyWidget.cpp:38
+msgid "Detector fps"
+msgstr "Fps детектора"
+
+#: EditorAdditionallyWidget.cpp:58
+msgid "Page info"
+msgstr "Информация страницы"
+
+#: EditorAdditionallyWidget.cpp:82
+msgid "Statistic enable"
+msgstr "Включить статистику"
+
+#: EditorAdditionallyWidget.cpp:92
+msgid "Unknown screenshotter enable"
+msgstr "Включить сохранение неизвестных скриншотов"
+
+#: EditorAdditionallyWidget.cpp:103
+msgid "File informer enable"
+msgstr "Включить файловый информатор"
+
+#: EditorAdditionallyWidget.cpp:113
+msgid "Compressed"
+msgstr "Сжатие"
+
+#: EditorAdditionallyWidget.cpp:125 EditorAdditionallyWidget.cpp:181
+msgid "Store time (hours)"
+msgstr "Время хранения (часы)"
+
+#: EditorAdditionallyWidget.cpp:145
+msgid "File informer"
+msgstr "Файловый информатор"
+
+#: EditorAdditionallyWidget.cpp:169
+msgid "Video logger enable"
+msgstr "Включить видео логгер"
+
+#: EditorAdditionallyWidget.cpp:201
+msgid "Video logger"
+msgstr "Видео логгер"
+
+#: EditorAuthorizationWidget.cpp:33
+msgid "Email"
+msgstr "Емейл"
+
+#: EditorAuthorizationWidget.cpp:47
+msgid "Send email"
+msgstr "Отправить емейл"
+
+#: EditorAuthorizationWidget.cpp:65
+msgid "Login"
+msgstr "Логин"
+
+#: EditorAuthorizationWidget.cpp:84
+msgid "Password"
+msgstr "Пароль"
+
+#: EditorBaseWidget.cpp:37
+msgid "Program"
+msgstr "Программа"
+
+#: EditorBaseWidget.cpp:38 EditorProgramWidget.cpp:222
+msgid "Settings"
+msgstr "Настройки"
+
+#: EditorBaseWidget.cpp:39
+msgid "Authorization"
+msgstr "Авторизация"
+
+#: EditorBaseWidget.cpp:40
+msgid "Additionally"
+msgstr "Дополнительно"
+
+#: EditorBaseWidget.cpp:41
+msgid "Informer"
+msgstr "Информатор"
+
+#: EditorProgramWidget.cpp:72
+msgid "Add"
+msgstr "Добавить"
+
+#: EditorProgramWidget.cpp:95
+msgid "Up"
+msgstr "Вверх"
+
+#: EditorProgramWidget.cpp:107
+msgid "Down"
+msgstr "Вниз"
+
+#: EditorProgramWidget.cpp:119
+msgid "Remove"
+msgstr "Удалить"
+
+#: EditorProgramWidget.cpp:247
+msgid "Stop"
+msgstr "Остановить"
+
+#: EditorProgramWidget.cpp:249
+msgid "Start"
+msgstr "Запустить"
+
+#: EditorProgramWidget.cpp:253
+msgid "Continue"
+msgstr "Продолжить"
+
+#: EditorProgramWidget.cpp:253
+msgid "Pause"
+msgstr "Пауза"
+
+#: EditorSettingsWidget.cpp:53
+msgid "Language"
+msgstr "Язык"
+
+#: EditorSettingsWidget.cpp:77
+msgid "Emulator type"
+msgstr "Тип эмулятора"
+
+#: EditorSettingsWidget.cpp:101
+msgid "Emulator identificator"
+msgstr "Идентификатор эмулятора"
+
+#: EditorSettingsWidget.cpp:125
+msgid "Emulator name"
+msgstr "Имя эмулятора"
+
+#: EditorSettingsWidget.cpp:151
+msgid "Fix emulator name"
+msgstr "Иправить имя эмулятора"
+
+#: EditorSettingsWidget.cpp:165
+msgid "Emulator path"
+msgstr "Путь к эмулятору"
+
+#: EditorSettingsWidget.cpp:180
+msgid "Run emulator"
+msgstr "Запустить эмулятор"
+
+#: EditorSettingsWidget.cpp:201
+msgid "Fix emulator path"
+msgstr "Исправить путь к эмулятору"
+
+#: EditorSettingsWidget.cpp:215
+msgid "Captcha sound"
+msgstr "Звук капчи"
+
+#: EditorSettingsWidget.cpp:220
+msgid "Volume"
+msgstr "Громкость"
+
+#: EditorSettingsWidget.cpp:240 EditorSettingsWidget.cpp:244
+#: EditorSettingsWidget.cpp:248
+msgid "Disabled"
+msgstr "Выключено"
+
+#: EditorSettingsWidget.cpp:255
+msgid "Play captcha sound"
+msgstr "Проиграть звук капчи"
+
+#: EditorSettingsWidget.cpp:266
+msgid "Autorun"
+msgstr "Автозапуск"
+
+#: EditorSettingsWidget.cpp:276
+msgid "Close emulator on shutdown"
+msgstr "Закрыть эмулятор при завершении"
+
+#: EditorSettingsWidget.cpp:286
+msgid "Background mode"
+msgstr "Фоновый режим"
+
+#: EditorSettingsWidget.cpp:296
+msgid "Show screen capture"
+msgstr "Показывать экран эмулятора"
+
+#: EditorSettingsWidget.cpp:308
+msgid "Current page:"
+msgstr "Текущая страница:"
+
+#: EditorSettingsWidget.cpp:320
+msgid "Take screenshot"
+msgstr "Сделать скриншот"
+
+#: EditorSettingsWidget.cpp:374
+msgid "Correct emulator path"
+msgstr "Правильный путь к эмулятору"
+
+#: EditorSettingsWidget.cpp:381
+msgid "Wrong emulator path. Run emulator and click fix"
+msgstr "Неправильный путь к эмулятору. Запустите эмулятор и нажмите исправить"
+
+#: EditorSettingsWidget.cpp:393
+msgid "Emulator running detected"
+msgstr "Обнаружен запущенный эмулятор"
+
+#: EditorSettingsWidget.cpp:399
+msgid "The emulator is not running. Run emulator and click fix"
+msgstr "Эмулятор не запущен. Запустите эмулятор и нажмите исправить"
+
+msgid "Page opening timeout (ms)"
+msgstr "Время ожидания открытия страницы (миллисекунды)"
+
+msgid "Emulator image changing timeout (ms)"
+msgstr "Время ожидания изменения изображения эмулятора (миллисекунды)"
+
+msgid "Page loading timeout (ms)"
+msgstr "Время ожидания загрузки страницы (миллисекунды)"
+
+msgid "Battle timeout (ms)"
+msgstr "Время ожидания боя (миллисекунды)"
+
+msgid "Arena loop timeout (ms)"
+msgstr "Время ожидания цикла на арене (миллисекунды)"
+
+msgid "Arena find timeout (ms)"
+msgstr "Время ожидания поиска арены (миллисекунды)"
+
+msgid "Pause after choosing a squad in the arena (ms)"
+msgstr "Пауза после выбора отряда на арене (миллисекунды)"
+
+msgid "Pause after start of arena phase (ms)"
+msgstr "Пауза после старта фазы на арене (миллисекунды)"
+
+msgid "Arena opponent opening timeout (ms)"
+msgstr "Время ожидания открытия страницы врага на арене (миллисекунды)"
+
+msgid "Pause if the squad is at low health (ms)"
+msgstr "Пауза, если у отряда мало здоровья (миллисекунды)"
+
+msgid "Timeout to find a friend to send a gift (ms)"
+msgstr "Время жидания на поиск друга, для отправки подарка (миллисекунды)"
+
+msgid "Pause after sending gift to friend (ms)"
+msgstr "Пауза после отправки подарка другу (миллисекунды)"
+
+msgid "Pause after scrolling friends (ms)"
+msgstr "Пауза после прокрутки друзей (миллисекунды)"
+
+msgid "Timeout to find a free field at a clan war point (ms)"
+msgstr "Время ожидания на поиск свободного поля в точке клановой войны (миллисекунды)"
+
+msgid "Timeout to check availability of clan war (ms)"
+msgstr "Время ожидания на проверку доступности клановой войны (миллисекунды)"
+
+msgid "Timeout to check availability of invasion (ms)"
+msgstr "Время ожидания на проверку доступности вторжения (миллисекунды)"
+
+msgid "Enemy finding on a map timeout (ms)"
+msgstr "Время ожидания обнаружения врага на карте (миллисекунды)"
+
+msgid "Pause after collecting mail (ms)"
+msgstr "Пауза после сбора почты (миллисекунды)"
+
+msgid "Pause after receiving a quest reward (ms)"
+msgstr "Пауза после получения награды за квест (миллисекунды)"
+
+msgid "Pause after opening a quest (ms)"
+msgstr "Пауза после открытия квеста (миллисекунды)"
+
+msgid "Ads watching timeout (ms)"
+msgstr "Время ожидания на просмотр рекламы (миллисекунды)"
+
+msgid "Ads closing timeout (ms)"
+msgstr "Время ожидания на закрытие рекламы (миллисекунды)"
+
+msgid "Pause after pressing esc in an ads (ms)"
+msgstr "Пауза после нажатия esc в рекламе (миллисекунды)"
+
+msgid "Emulator stop timeout (ms)"
+msgstr "Время ожидания выключения эмулятора (миллисекунды)"
+
+msgid "Emulator start timeout (ms)"
+msgstr "Время ожидания запуска эмулятора (миллисекунды)"
+
+msgid "Pause after starting emulator (ms)"
+msgstr "Пауза после запуска эмулятора (миллисекунды)"
+
+msgid "Pause after detecting the castle page (ms)"
+msgstr "Пауза после обнаружения страницы замка (миллисекунды)"
+
+msgid "Pause when logging in from another device (ms)"
+msgstr "Пауза при обнаружении входа с другого устройства (миллисекунды)"
+
+msgid "Opening game timeout during recovering system (ms)"
+msgstr "Время ожидания запуска игры в системе восстановления (миллисекунды)"
+
+msgid "Pause after pressing esc in an recovering system (ms)"
+msgstr "Пауза после нажатия esc в системе восстановления (миллисекунды)"
+
+msgid "Pause after pressing close in an recovering system (ms)"
+msgstr "Пауза после нажатия закрыть в системе восстановления (миллисекунды)"
+
+msgid "Recovering system timeout (ms)"
+msgstr "Время ожидания системы восстановления (миллисекунды)"
+
+msgid "Pause after detecting the castle page in an recovering system (ms)"
+msgstr "Пауза после обнаружения страницы замка в системе восстановления (миллисекунды)"
+
+msgid "Watch ads if apples run out"
+msgstr "Смотреть рекламу, если мало яблок"
+
+msgid "Apple request lifetime (minutes)"
+msgstr "Время жизни запроса яблок (минуты)"
+
+msgid "Arena"
+msgstr "Арена"
+
+msgid "Arena ads"
+msgstr "Реклама на арене"
+
+msgid "Arena resources"
+msgstr "Ресурсы на арене"
+
+msgid "Clan war"
+msgstr "Клановая война"
+
+msgid "Start clan war"
+msgstr "Запустить клановую войну"
+
+msgid "Enemy"
+msgstr "Враги"
+
+msgid "Gate"
+msgstr "Врата"
+
+msgid "Take gifts"
+msgstr "Получить подарки"
+
+msgid "Invasion"
+msgstr "Вторжения"
+
+msgid "Quest ads"
+msgstr "Реклама в квестах"
+
+msgid "Request apples"
+msgstr "Запросить яблоки"
+
+msgid "Send gifts"
+msgstr "Отправить подарки"
+
+msgid "Ads chest"
+msgstr "Рекламный сундук"
+
+msgid "Daily chest"
+msgstr "Ежедневный сундук"
+
+msgid "Apple ads"
+msgstr "Яблоки за рекламу"
+
+msgid "Enable task"
+msgstr "Включить задачу"
+
+msgid "Maximum successful launches per day"
+msgstr "Максимум успешных запусков в день"
+
+msgid "Maximum successful launches in 2 hours"
+msgstr "Максимум успешных запусков за 2 часа"
+
+msgid "Block task if unavailable"
+msgstr "Блокировать задачу, если недоступна"
+
+msgid "Block other tasks for apples if there are few apples"
+msgstr "Блокировать другие задачи за яблоки, если мало яблок"
+
+msgid "Ignore blocking if there are few apples"
+msgstr "Игнорировать блокирование, если мало яблок"
+
+msgid "Pause after completion (ms)"
+msgstr "Пауза после завершения"
+
+msgid "Pause after successful completion (ms)"
+msgstr "Пауза после успешного завершения"
+
+msgid "Check quests after successful completion"
+msgstr "Проверять квесты после успешного выполнения"
+
+msgid "Run only if there are few apples"
+msgstr "Запускать только, если мало яблок"
+
+msgid "Ignore warning not enough spells"
+msgstr "Игнорировать предупреждение мало заклинаний"
+
+msgid "Ignore the warning not enough fighters"
+msgstr "Игнорировать предупреждение мало бойцов"
+
+msgid "Ignore the warning not enough healths"
+msgstr "Игнорировать предупреждение мало жизней"
+
+msgid "Watch ads if you lost the fight"
+msgstr "Смотреть рекламу, если проиграли бой"
+
+msgid "Upper power threshold"
+msgstr "Верхний предел мощности"
+
+msgid "Lower power threshold"
+msgstr "Нижний предел мощности"
+
+msgid "Squad mode"
+msgstr "Режим отряда"
+
+msgid "Buy apples for diamonds"
+msgstr "Покупать яблоки за алмазы"
+
+msgid "Buy tickets for diamonds"
+msgstr "Покупать билеты за алмазы"
+
+msgid "Collect mail"
+msgstr "Забирать почту"
+
+msgid "Arena mode"
+msgstr "Режим арены"
+
+msgid "Current squad"
+msgstr "Текущий отряд"
+
+msgid "Best squad"
+msgstr "Лучший отряд"
+
+msgid "Previous squad"
+msgstr "Предыдущий отряд"
+
+msgid "Apple"
+msgstr "Яблоки"
+
+msgid "Ticket"
+msgstr "Билеты"
+
+msgid "Apple, ticket"
+msgstr "Яблоки, билеты"
+
+msgid "Ticket, apple"
+msgstr "Билеты, яблоки"
