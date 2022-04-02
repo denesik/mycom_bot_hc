@@ -553,6 +553,7 @@
         "nox/start.bat",
         "opencv_world453.dll",
         "paths.txt",
+        "start.bat",
         "swresample-4.dll",
         "swscale-6.dll",
         "traindata/train.xml",
