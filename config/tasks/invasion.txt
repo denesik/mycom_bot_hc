@@ -2,19 +2,20 @@
 	"title": "Invasion",
 
 	"task_enabe": { "value":true, "type": "check", "title": "Enable task" },
+	
+	"ignore_few_spell": { "value":true, "type": "check", "title": "Ignore warning not enough spells" },
+	"ignore_few_squad": { "value":true, "type": "check", "title": "Ignore the warning not enough fighters" },
+	"ignore_few_hp": { "value":false, "type": "check", "title": "Ignore the warning not enough healths" },
+	"battle_defeat_ads": { "value":true, "type": "check", "title": "Watch ads if you lost the fight" },
+	
 	"success_launch_max_day": { "value":1, "type": "spin", "title": "Maximum successful launches per day", "min": 0 },
 	"success_launch_max_zone": { "value":1, "type": "spin", "title": "Maximum successful launches in 2 hours", "min": 0 },
 	"lock_unavailable_launch": { "value":true, "type": "check", "title": "Block task if unavailable" },
 	"request_missing_resources": { "value":true, "type": "check", "title": "Block other tasks for apples if there are few apples" },
 	"ignore_request_resources": { "value":true, "type": "check", "title": "Ignore blocking if there are few apples" },
-	"finished_pause": { "value":0, "type": "spin", "title": "Pause after completion (ms)", "min": 0 },
-	"success_pause": { "value":0, "type": "spin", "title": "Pause after successful completion (ms)", "min": 0 },
-	"check_quests_after_success": { "value":false, "type": "check", "title": "Check quests after successful completion" },
-	"run_if_few_resources": { "value":false, "type": "check", "title": "Run only if there are few apples" },
-
-	"ignore_few_spell": { "value":true, "type": "check", "title": "Ignore warning not enough spells" },
-	"ignore_few_squad": { "value":true, "type": "check", "title": "Ignore the warning not enough fighters" },
-	"ignore_few_hp": { "value":false, "type": "check", "title": "Ignore the warning not enough healths" },
 	
-	"battle_defeat_ads": { "value":true, "type": "check", "title": "Watch ads if you lost the fight" },
+	"run_if_few_resources": { "value":false, "type": "check", "title": "Run only if there are few apples" },
+	"check_quests_after_success": { "value":false, "type": "check", "title": "Check quests after successful completion" },
+	"finished_pause": { "value":0, "type": "spin", "title": "Pause after completion (ms)", "min": 0 },
+	"success_pause": { "value":0, "type": "spin", "title": "Pause after successful completion (ms)", "min": 0 },	
 }

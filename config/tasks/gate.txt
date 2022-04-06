@@ -7,14 +7,15 @@
 	"lock_unavailable_launch": { "value":false, "type": "check", "title": "Block task if unavailable" },
 	"request_missing_resources": { "value":false, "type": "check", "title": "Block other tasks for apples if there are few apples" },
 	"ignore_request_resources": { "value":false, "type": "check", "title": "Ignore blocking if there are few apples" },
-	"finished_pause": { "value":0, "type": "spin", "title": "Pause after completion (ms)", "min": 0 },
-	"success_pause": { "value":0, "type": "spin", "title": "Pause after successful completion (ms)", "min": 0 },
-	"check_quests_after_success": { "value":false, "type": "check", "title": "Check quests after successful completion" },
-	"run_if_few_resources": { "value":false, "type": "check", "title": "Run only if there are few apples" },
 
 	"ignore_few_spell": { "value":true, "type": "check", "title": "Ignore warning not enough spells" },
 	"ignore_few_squad": { "value":true, "type": "check", "title": "Ignore the warning not enough fighters" },
 	"ignore_few_hp": { "value":false, "type": "check", "title": "Ignore the warning not enough healths" },
 	
 	"gate_boss_name": { "value":"sporozilla" },
+	
+	"run_if_few_resources": { "value":false, "type": "check", "title": "Run only if there are few apples" },
+	"check_quests_after_success": { "value":false, "type": "check", "title": "Check quests after successful completion" },
+	"finished_pause": { "value":0, "type": "spin", "title": "Pause after completion (ms)", "min": 0 },
+	"success_pause": { "value":0, "type": "spin", "title": "Pause after successful completion (ms)", "min": 0 },
 }

@@ -7,8 +7,8 @@
 	"lock_unavailable_launch": { "value":true, "type": "check", "title": "Block task if unavailable" },
 	"request_missing_resources": { "value":true, "type": "check", "title": "Block other tasks for apples if there are few apples" },
 	"ignore_request_resources": { "value":true, "type": "check", "title": "Ignore blocking if there are few apples" },
+	"run_if_few_resources": { "value":false, "type": "check", "title": "Run only if there are few apples" },
+	"check_quests_after_success": { "value":false, "type": "check", "title": "Check quests after successful completion" },
 	"finished_pause": { "value":0, "type": "spin", "title": "Pause after completion (ms)", "min": 0 },
 	"success_pause": { "value":0, "type": "spin", "title": "Pause after successful completion (ms)", "min": 0 },
-	"check_quests_after_success": { "value":false, "type": "check", "title": "Check quests after successful completion" },
-	"run_if_few_resources": { "value":false, "type": "check", "title": "Run only if there are few apples" },
 }

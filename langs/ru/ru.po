@@ -456,3 +456,9 @@ msgstr "Яблоки, билеты"
 
 msgid "Ticket, apple"
 msgstr "Билеты, яблоки"
+
+msgid "Stop emulator"
+msgstr "Выключить эмулятор"
+
+msgid "Fix emulator size"
+msgstr "Исправить размер эмулятора"
