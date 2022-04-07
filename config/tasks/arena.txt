@@ -4,8 +4,8 @@
 	"task_enabe": { "value":true, "type": "check", "title": "Enable task", "color": "0x008236" },
 	
 	"arena_mode": { "value":0, "type": "combo", "title": "Arena mode", "color": "0xFF9D00", "choices": [ "Apple", "Ticket", "Apple, ticket", "Ticket, apple" ] },
-	"arena_power_scale_min": { "value":100, "type": "spin", "title": "Lower power threshold", "color": "0xFF9D00", "min": 0 },
-	"arena_power_scale_max": { "value":200, "type": "spin", "title": "Upper power threshold", "color": "0xFF9D00", "min": 0 },
+	"arena_power_scale_min": { "value":100, "type": "spin", "title": "The power of the opponents we attack (%)", "color": "0xFF9D00", "min": 0 },
+	"arena_power_scale_max": { "value":200, "type": "spin", "title": "The power of the opponents we don't attack (%)", "color": "0xFF9D00", "min": 0 },
 	"choice_squad_mode": { "value":0, "type": "combo", "title": "Squad mode", "color": "0xFF9D00", "choices": [ "Current squad", "Best squad", "Previous squad" ] },
 	"arena_check_mail": { "value":true, "type": "check", "title": "Collect mail", "color": "0xFF9D00" },
 	"arena_buy_apple": { "value":false, "type": "check", "title": "Buy apples for diamonds", "color": "0x9E00D8" },

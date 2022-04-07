@@ -462,3 +462,9 @@ msgstr "Выключить эмулятор"
 
 msgid "Fix emulator size"
 msgstr "Исправить размер эмулятора"
+
+msgid "The power of the opponents we attack (%)"
+msgstr "Мощность противников, которых мы атакуем (%)"
+
+msgid "The power of the opponents we don't attack (%)"
+msgstr "Мощность противников, которых мы не атакуем (%)"
