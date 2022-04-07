@@ -1,53 +1,59 @@
 {
 	"title": "Settings",
 
-	"open_page_timeout": { "value":4000, "type": "spin", "title": "Page opening timeout (ms)", "min": 0 }, 
-	"watchdog_timeout": { "value":15000, "type": "spin", "title": "Emulator image changing timeout (ms)", "min": 0 },				
-	"load_page_timeout": { "value":20000, "type": "spin", "title": "Page loading timeout (ms)", "min": 0 },				
+	"return_apple_ads": { "value":true, "type": "check", "title": "Watch ads if apples run out", "color": "0xFF2E00" },
+	"another_device_timeout": { "value":5, "type": "spin", "title": "Pause when logging in from another device (minutes)", "color": "0x008236", "min": 0 },		
 	
-	"battle_timeout": { "value":180000, "type": "spin", "title": "Battle timeout (ms)", "min": 0 },			
-	"arena_loop_timeout": { "value":120000, "type": "spin", "title": "Arena loop timeout (ms)", "min": 0 },			
-	"arena_find_timeout": { "value":600000, "type": "spin", "title": "Arena find timeout (ms)", "min": 0 },			
+	"request_resources_timeleft": { "value":240, "type": "spin", "title": "Apple request lifetime (minutes)", "color": "0xAD006A", "min": 0 },
 	
-	"arena_squad_mode_pause": { "value":1000, "type": "spin", "title": "Pause after choosing a squad in the arena (ms)", "min": 0 },
-	"arena_start_phase_pause": { "value":3000, "type": "spin", "title": "Pause after start of arena phase (ms)", "min": 0 }, 		
-	"arena_open_opponent_timeout": { "value":2000, "type": "spin", "title": "Arena opponent opening timeout (ms)", "min": 0 }, 			
+	"mail_take_pause": { "value":1000, "type": "spin", "title": "Pause after collecting mail (ms)", "color": "0xD3615F", "min": 0 }, 			
 	
-	"battle_few_hp_pause": { "value":2000, "type": "spin", "title": "Pause if the squad is at low health (ms)", "min": 0 },			 
+	"battle_few_hp_pause": { "value":2000, "type": "spin", "title": "Pause if the squad is at low health (ms)", "color": "0xE2874F", "min": 0 },	
+	
+	"open_page_timeout": { "value":4000, "type": "spin", "title": "Page opening timeout (ms)", "color": "0xA87E25", "min": 0 }, 
+	"watchdog_timeout":  { "value":15000, "type": "spin", "title": "Emulator image changing timeout (ms)", "color": "0xA87E25", "min": 0 },	
+	"load_page_timeout": { "value":20000, "type": "spin", "title": "Page loading timeout (ms)", "color": "0xA87E25", "min": 0 },				
+	"battle_timeout": 	 { "value":180000, "type": "spin", "title": "Battle timeout (ms)", "color": "0xA87E25", "min": 0 },						
+	
+	"ads_watch_timeout": { "value":40000, "type": "spin", "title": "Ads watching timeout (ms)", "color": "0x95B515", "min": 0 }, 			
+	"ads_close_timeout": { "value":20000, "type": "spin", "title": "Ads closing timeout (ms)", "color": "0x95B515", "min": 0 }, 			
+	"ads_press_esc_pause": { "value":2000, "type": "spin", "title": "Pause after pressing esc in an ads (ms)", "color": "0x95B515", "min": 0 }, 			
+	
+	"arena_loop_timeout": { "value":120000, "type": "spin", "title": "Arena loop timeout (ms)", "color": "0x316B0B", "min": 0 },			
+	"arena_find_timeout": { "value":600000, "type": "spin", "title": "Arena find timeout (ms)", "color": "0x316B0B", "min": 0 },			
+	"arena_squad_mode_pause": { "value":1000, "type": "spin", "title": "Pause after choosing a squad in the arena (ms)", "color": "0x316B0B", "min": 0 },
+	"arena_start_phase_pause": { "value":3000, "type": "spin", "title": "Pause after start of arena phase (ms)", "color": "0x316B0B", "min": 0 }, 		
+	"arena_open_opponent_timeout": { "value":2000, "type": "spin", "title": "Arena opponent opening timeout (ms)", "color": "0x316B0B", "min": 0 }, 					 
+	
+	"friends_send_timeout": { "value":2000, "type": "spin", "title": "Timeout to find a friend to send a gift (ms)", "color": "0x319E95", "min": 0 },			
+	"friends_send_pause": { "value":2000, "type": "spin", "title": "Pause after sending gift to friend (ms)", "color": "0x319E95", "min": 0 },			
+	"friends_scroll_pause": { "value":2000, "type": "spin", "title": "Pause after scrolling friends (ms)", "color": "0x319E95", "min": 0 },			
+	
+	"cw_place_timeout": { "value":2000, "type": "spin", "title": "Timeout to find a free field at a clan war point (ms)", "color": "0x216799", "min": 0 },			
+	"cw_check_timeout": { "value":2000, "type": "spin", "title": "Timeout to check availability of clan war (ms)", "color": "0x216799", "min": 0 },		
+	
+	"quests_take_reward_pause": { "value":2000, "type": "spin", "title": "Pause after receiving a quest reward (ms)", "color": "0x0E26A0", "min": 0 }, 			
+	"quests_open_record_pause": { "value":2000, "type": "spin", "title": "Pause after opening a quest (ms)", "color": "0x0E26A0", "min": 0 }, 			
+	
+	"invasion_check_timeout": { "value":2000, "type": "spin", "title": "Timeout to check availability of invasion (ms)", "color": "0x5331CE", "min": 0 },		
+	
+	"enemy_find_timeout": { "value":2000, "type": "spin", "title": "Enemy finding on a map timeout (ms)", "color": "0x6C1ECC", "min": 0 }, 			
+		
+	
+	
+	"main_pause": { "value":2000, "type": "spin", "title": "Pause after detecting the castle page (ms)", "color": "0x8819B5", "min": 0 },		
+	
+	"emulator_stop_timeout": { "value":5000, "type": "spin", "title": "Emulator stop timeout (ms)", "color": "0xB215AF", "min": 0 }, 			
+	"emulator_start_timeout": { "value":5000, "type": "spin", "title": "Emulator start timeout (ms)", "color": "0xB215AF", "min": 0 },			
+	"emulator_start_pause": { "value":90000, "type": "spin", "title": "Pause after starting emulator (ms)", "color": "0xB215AF", "min": 0 },							
+	
+	"recovery_open_game_timeout": { "value":10000, "type": "spin", "title": "Opening game timeout during recovering system (ms)", "color": "0xD32C77", "min": 0 },	
+	"recovery_press_esc_pause": { "value":2000, "type": "spin", "title": "Pause after pressing esc in an recovering system (ms)", "color": "0xD32C77", "min": 0 },	
+	"recovery_press_close_pause": { "value":2000, "type": "spin", "title": "Pause after pressing close in an recovering system (ms)", "color": "0xD32C77", "min": 0 },	
+	"recovery_loop_timeout": { "value":30000, "type": "spin", "title": "Recovering system timeout (ms)", "color": "0xD32C77", "min": 0 },	
+	"recovery_main_pause": { "value":2000, "type": "spin", "title": "Pause after detecting the castle page in an recovering system (ms)", "color": "0xD32C77", "min": 0 },			
+	
 	"gate_choose_boss_pause": { "value":2000, "type": "spin", "title": "gate_choose_boss_pause (ms) [under development]", "min": 0 }, 		
 	
-	"friends_send_timeout": { "value":2000, "type": "spin", "title": "Timeout to find a friend to send a gift (ms)", "min": 0 },			
-	"friends_send_pause": { "value":2000, "type": "spin", "title": "Pause after sending gift to friend (ms)", "min": 0 },			
-	"friends_scroll_pause": { "value":2000, "type": "spin", "title": "Pause after scrolling friends (ms)", "min": 0 },			
-	"cw_place_timeout": { "value":2000, "type": "spin", "title": "Timeout to find a free field at a clan war point (ms)", "min": 0 },			
-	"cw_check_timeout": { "value":2000, "type": "spin", "title": "Timeout to check availability of clan war (ms)", "min": 0 },			
-	"invasion_check_timeout": { "value":2000, "type": "spin", "title": "Timeout to check availability of invasion (ms)", "min": 0 },			
-	"enemy_find_timeout": { "value":2000, "type": "spin", "title": "Enemy finding on a map timeout (ms)", "min": 0 }, 			
-	
-	"mail_take_pause": { "value":1000, "type": "spin", "title": "Pause after collecting mail (ms)", "min": 0 }, 				
-	"quests_take_reward_pause": { "value":2000, "type": "spin", "title": "Pause after receiving a quest reward (ms)", "min": 0 }, 			
-	"quests_open_record_pause": { "value":2000, "type": "spin", "title": "Pause after opening a quest (ms)", "min": 0 }, 			
-	
-	"ads_watch_timeout": { "value":40000, "type": "spin", "title": "Ads watching timeout (ms)", "min": 0 }, 			
-	"ads_close_timeout": { "value":20000, "type": "spin", "title": "Ads closing timeout (ms)", "min": 0 }, 			
-	"ads_press_esc_pause": { "value":2000, "type": "spin", "title": "Pause after pressing esc in an ads (ms)", "min": 0 }, 			
-	
-	"emulator_stop_timeout": { "value":5000, "type": "spin", "title": "Emulator stop timeout (ms)", "min": 0 }, 			
-	"emulator_start_timeout": { "value":5000, "type": "spin", "title": "Emulator start timeout (ms)", "min": 0 },			
-	"emulator_start_pause": { "value":90000, "type": "spin", "title": "Pause after starting emulator (ms)", "min": 0 },			
-	
-	"main_pause": { "value":2000, "type": "spin", "title": "Pause after detecting the castle page (ms)", "min": 0 },						
-	"another_device_timeout": { "value":300000, "type": "spin", "title": "Pause when logging in from another device (ms)", "min": 0 },		
-	
-	"recovery_open_game_timeout": { "value":10000, "type": "spin", "title": "Opening game timeout during recovering system (ms)", "min": 0 },	
-	"recovery_press_esc_pause": { "value":2000, "type": "spin", "title": "Pause after pressing esc in an recovering system (ms)", "min": 0 },	
-	"recovery_press_close_pause": { "value":2000, "type": "spin", "title": "Pause after pressing close in an recovering system (ms)", "min": 0 },	
-	"recovery_loop_timeout": { "value":30000, "type": "spin", "title": "Recovering system timeout (ms)", "min": 0 },	
-	"recovery_main_pause": { "value":2000, "type": "spin", "title": "Pause after detecting the castle page in an recovering system (ms)", "min": 0 },			
-	
 	"blacklist_hours": { "value":72, "type": "spin", "title": "blacklist_hours (hours) [under development]", "min": 0 }, 
-	
-	"return_apple_ads": { "value":true, "type": "check", "title": "Watch ads if apples run out" },
-	
-	"request_resources_timeleft": { "value":240, "type": "spin", "title": "Apple request lifetime (minutes)", "min": 0 },
 }
