@@ -468,3 +468,30 @@ msgstr "Мощность противников, которых мы атаку�
 
 msgid "The power of the opponents we don't attack (%)"
 msgstr "Мощность противников, которых мы не атакуем (%)"
+
+msgid "Emulator"
+msgstr "Эмулятор"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Pages data not loaded"
+msgstr "Данные страниц не загружены"
+
+msgid "Emulator not found"
+msgstr "Эмулятор не найден"
+
+msgid "Scan error"
+msgstr "Ошибка сканирования"
+
+msgid "Emulator size error"
+msgstr "Неправильный размер эмулятора"
+
+msgid "Emulator minimized"
+msgstr "Эмулятор свернут"
+
+msgid "Ok"
+msgstr "Ок"
+
+msgid "Unknown"
+msgstr "Неизвестно"
