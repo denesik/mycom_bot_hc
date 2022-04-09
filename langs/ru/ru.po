@@ -151,8 +151,8 @@ msgid "Emulator name"
 msgstr "Имя эмулятора"
 
 #: EditorSettingsWidget.cpp:151
-msgid "Fix emulator name"
-msgstr "Иправить имя эмулятора"
+msgid "Fix name"
+msgstr "Иправить имя"
 
 #: EditorSettingsWidget.cpp:165
 msgid "Emulator path"
@@ -163,8 +163,8 @@ msgid "Run emulator"
 msgstr "Запустить эмулятор"
 
 #: EditorSettingsWidget.cpp:201
-msgid "Fix emulator path"
-msgstr "Исправить путь к эмулятору"
+msgid "Fix path"
+msgstr "Исправить путь"
 
 #: EditorSettingsWidget.cpp:215
 msgid "Captcha sound"
@@ -460,8 +460,11 @@ msgstr "Билеты, яблоки"
 msgid "Stop emulator"
 msgstr "Выключить эмулятор"
 
-msgid "Fix emulator size"
-msgstr "Исправить размер эмулятора"
+msgid "Fix size"
+msgstr "Исправить размер"
+
+msgid "Expand"
+msgstr "Развернуть"
 
 msgid "The power of the opponents we attack (%)"
 msgstr "Мощность противников, которых мы атакуем (%)"
