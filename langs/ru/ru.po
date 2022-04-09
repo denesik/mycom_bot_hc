@@ -498,3 +498,39 @@ msgstr "Ок"
 
 msgid "Unknown"
 msgstr "Неизвестно"
+
+msgid "Hustle Castle Bot"
+msgstr "Hustle Castle Бот"
+
+msgid "Email send result"
+msgstr "Результат отправки на почту"
+
+msgid "Result"
+msgstr "Результат"
+
+msgid "Network error"
+msgstr "Ошибка сети"
+
+msgid "Server error"
+msgstr "Ошибка на сервере"
+
+msgid "Success"
+msgstr "Успех"
+
+msgid "Wrong password"
+msgstr "Неправильный пароль"
+
+msgid "User not found"
+msgstr "Пользователь не найден"
+
+msgid "Wrong inpu"
+msgstr "Неправильные входные данные"
+
+msgid "Access allowed"
+msgstr "Доступ разрешен"
+
+msgid "Access denied"
+msgstr "Доступ запрещен"
+
+msgid "Login from another device"
+msgstr "Вход с другого устройства"
