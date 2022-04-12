@@ -1,24 +1,26 @@
 {
 	"title": "Enemy",
 
-	"task_enabe": { "value":true, "type": "check", "title": "Enable task", "color": "0x008236" },
+	"task_enabe": { "value":true, "type": "check", "title": "Enable task", "color": "0x008236", "indent": 10 },
 
 	"enemy_power_scale_max": { "value":100, "type": "spin", "title": "Upper power threshold", "color": "0xFF9D00", "min": 0 },
-	"enemy_power_scale_min": { "value":0, "type": "spin", "title": "Lower power threshold", "color": "0xFF9D00", "min": 0 },	
+	"enemy_power_scale_min": { "value":0, "type": "spin", "title": "Lower power threshold", "color": "0xFF9D00", "min": 0, "indent": 10 },	
 
 	"ignore_few_spell": { "value":true, "type": "check", "title": "Ignore warning not enough spells", "color": "0xFF2E00" },
 	"ignore_few_squad": { "value":true, "type": "check", "title": "Ignore the warning not enough fighters", "color": "0xFF2E00" },
 	"ignore_few_hp": { "value":false, "type": "check", "title": "Ignore the warning not enough healths", "color": "0xFF2E00" },
-	"battle_defeat_ads": { "value":true, "type": "check", "title": "Watch ads if you lost the fight", "color": "0xFF2E00" },
+	"battle_defeat_ads": { "value":true, "type": "check", "title": "Watch ads if you lost the fight", "color": "0xFF2E00", "indent": 10 },
 	
 	"success_launch_max_day": { "value":5, "type": "spin", "title": "Maximum successful launches per day", "color": "0x007DC1", "min": 0 },
 	"success_launch_max_zone": { "value":0, "type": "spin", "title": "Maximum successful launches in 2 hours", "color": "0x007DC1", "min": 0 },
-	"lock_unavailable_launch": { "value":false, "type": "check", "title": "Block task if unavailable", "color": "0x007DC1" },
+	"lock_unavailable_launch": { "value":false, "type": "check", "title": "Block task if unavailable", "color": "0x007DC1", "indent": 10 },
+	
 	"request_missing_resources": { "value":true, "type": "check", "title": "Block other tasks for apples if there are few apples", "color": "0x727F00" },
 	"ignore_request_resources": { "value":true, "type": "check", "title": "Ignore blocking if there are few apples", "color": "0x727F00" },
+	"run_if_few_resources": { "value":false, "type": "check", "title": "Run only if there are few apples", "color": "0x727F00", "indent": 10 },
 	
-	"run_if_few_resources": { "value":false, "type": "check", "title": "Run only if there are few apples", "color": "0x727F00" },
 	"finished_pause": { "value":0, "type": "spin", "title": "Pause after completion (ms)", "color": "0x5C0091", "min": 0 },
-	"success_pause": { "value":0, "type": "spin", "title": "Pause after successful completion (ms)", "color": "0x5C0091", "min": 0 },
+	"success_pause": { "value":0, "type": "spin", "title": "Pause after successful completion (ms)", "color": "0x5C0091", "min": 0, "indent": 10 },
+	
 	"check_quests_after_success": { "value":false, "type": "check", "title": "Check quests after successful completion", "color": "0x8E0058" },
 }
