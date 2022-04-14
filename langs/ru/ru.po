@@ -180,8 +180,8 @@ msgid "Disabled"
 msgstr "Выключено"
 
 #: EditorSettingsWidget.cpp:255
-msgid "Play captcha sound"
-msgstr "Проиграть звук капчи"
+msgid "Play"
+msgstr "Воспроизвести"
 
 #: EditorSettingsWidget.cpp:266
 msgid "Autorun"
@@ -478,8 +478,8 @@ msgstr "Эмулятор"
 msgid "Status"
 msgstr "Статус"
 
-msgid "Pages data not loaded"
-msgstr "Данные страниц не загружены"
+msgid "Data not loaded"
+msgstr "Данные не загружены"
 
 msgid "Emulator not found"
 msgstr "Эмулятор не найден"
