@@ -534,3 +534,36 @@ msgstr "Доступ запрещен"
 
 msgid "Login from another device"
 msgstr "Вход с другого устройства"
+
+msgid "Page name"
+msgstr "Имя страницы"
+
+msgid "Dynamic"
+msgstr "Динамический"
+
+msgid "Static"
+msgstr "Статический"
+
+msgid "Lifetime"
+msgstr "Время жизни"
+
+msgid "Full"
+msgstr "Полный"
+
+msgid "Partly"
+msgstr "Частично"
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "Condition"
+msgstr "Условие"
+
+msgid "Unavailable"
+msgstr "Недоступно"
+
+msgid "Report"
+msgstr "Отчет"
+
+msgid "Report period (hours)"
+msgstr "Отчетный период (часы)"

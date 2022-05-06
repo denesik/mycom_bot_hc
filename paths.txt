@@ -34,6 +34,7 @@
 		"log_user_dir": "logs",
 		"statistic_file": "statistic.txt",
 		"journal_user_file": "journal.txt",
+		"program_report": "report.txt", 
 		
 		"editor_user_file": "editor.txt",
 		

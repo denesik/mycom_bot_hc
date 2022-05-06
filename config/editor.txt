@@ -7,5 +7,6 @@
         "w": 870,
         "h": 770
     },
-	"show_capture_mode": false
+	"show_capture_mode": false,
+	"program_report_period": 72
 }
