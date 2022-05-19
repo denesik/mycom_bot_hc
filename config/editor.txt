@@ -7,6 +7,11 @@
         "w": 870,
         "h": 770
     },
+	"test_click":
+	{
+		"x": 87,
+		"y": 632,
+	},
 	"show_capture_mode": false,
 	"program_report_period": 72
 }

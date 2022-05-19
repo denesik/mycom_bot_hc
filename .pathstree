@@ -534,6 +534,7 @@
         "data/sounds/captcha/Airhorn.wav",
         "data/sounds/captcha/Alert.wav",
         "data/sounds/captcha/Buzzer.wav",
+        "emulators.txt",
         "langs/ru/ru.mo",
         "langs/ru/ru.po",
         "libcrypto-3-x64.dll",

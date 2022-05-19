@@ -143,8 +143,8 @@ msgid "Emulator type"
 msgstr "Тип эмулятора"
 
 #: EditorSettingsWidget.cpp:101
-msgid "Emulator identificator"
-msgstr "Идентификатор эмулятора"
+msgid "Emulator number"
+msgstr "Номер эмулятора"
 
 #: EditorSettingsWidget.cpp:125
 msgid "Emulator name"
@@ -212,8 +212,8 @@ msgid "Correct emulator path"
 msgstr "Правильный путь к эмулятору"
 
 #: EditorSettingsWidget.cpp:381
-msgid "Wrong emulator path. Run emulator and click fix"
-msgstr "Неправильный путь к эмулятору. Запустите эмулятор и нажмите исправить"
+msgid "Wrong emulator path"
+msgstr "Неправильный путь к эмулятору"
 
 #: EditorSettingsWidget.cpp:393
 msgid "Emulator running detected"
@@ -567,3 +567,9 @@ msgstr "Отчет"
 
 msgid "Report period (hours)"
 msgstr "Отчетный период (часы)"
+
+msgid "Test click"
+msgstr "Тест click"
+
+msgid "Test esc"
+msgstr "Тест esc"
