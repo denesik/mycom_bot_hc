@@ -39,8 +39,11 @@ msgid "Statistic enable"
 msgstr "Включить статистику"
 
 #: EditorAdditionallyWidget.cpp:92
-msgid "Unknown screenshotter enable"
-msgstr "Включить сохранение неизвестных скриншотов"
+msgid "Enable saving all unknown screenshots"
+msgstr "Включить сохранение всех неизвестных скриншотов"
+
+msgid "Enable saving unknown screenshots on recovery"
+msgstr "Включить сохранение неизвестных скриншотов при восстановлении"
 
 #: EditorAdditionallyWidget.cpp:103
 msgid "File informer enable"
@@ -573,3 +576,15 @@ msgstr "Тест click"
 
 msgid "Test esc"
 msgstr "Тест esc"
+
+msgid "Fail"
+msgstr "Сбой"
+
+msgid "Clear"
+msgstr "Очистить"
+
+msgid "Block the task if there are not enough apples"
+msgstr "Блокировать задачу, если мало яблок"
+
+msgid "Block the task if there are enough apples"
+msgstr "Блокировать задачу, если яблок достаточно"

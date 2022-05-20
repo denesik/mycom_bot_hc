@@ -16,7 +16,8 @@
 	
 	"gate_boss_name": { "value":"sporozilla", "indent": 10 },
 	
-	"run_if_few_resources": { "value":false, "type": "check", "title": "Run only if there are few apples", "color": "0x727F00" },
+	"lock_if_few_apples": { "value":false, "type": "check", "title": "Block the task if there are not enough apples", "color": "0x727F00", "indent": 10 },
+	
 	"finished_pause": { "value":0, "type": "spin", "title": "Pause after completion (ms)", "color": "0x5C0091", "min": 0 },
 	"success_pause": { "value":0, "type": "spin", "title": "Pause after successful completion (ms)", "color": "0x5C0091", "min": 0 },
 	"check_quests_after_success": { "value":false, "type": "check", "title": "Check quests after successful completion", "color": "0x8E0058" },

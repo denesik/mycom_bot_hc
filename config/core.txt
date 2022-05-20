@@ -9,6 +9,7 @@
 	"unknown_screenshotter": 
 	{
 		"enable": false,
+		"recovery": false,
 	},
 	"autorun_mode": false,
 	"stop_emulator_mode": false,

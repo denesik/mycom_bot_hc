@@ -12,9 +12,7 @@
 	"success_launch_max_zone": { "value":1, "type": "spin", "title": "Maximum successful launches in 2 hours", "color": "0x007DC1", "min": 0 },
 	"lock_unavailable_launch": { "value":true, "type": "check", "title": "Block task if unavailable", "color": "0x007DC1", "indent": 10 },
 	
-	"request_missing_resources": { "value":true, "type": "check", "title": "Block other tasks for apples if there are few apples", "color": "0x727F00" },
-	"ignore_request_resources": { "value":true, "type": "check", "title": "Ignore blocking if there are few apples", "color": "0x727F00" },
-	"run_if_few_resources": { "value":false, "type": "check", "title": "Run only if there are few apples", "color": "0x727F00", "indent": 10 },
+	"lock_if_few_apples": { "value":false, "type": "check", "title": "Block the task if there are not enough apples", "color": "0x727F00", "indent": 10 },
 	
 	"finished_pause": { "value":0, "type": "spin", "title": "Pause after completion (ms)", "color": "0x5C0091", "min": 0 },
 	"success_pause": { "value":0, "type": "spin", "title": "Pause after successful completion (ms)", "color": "0x5C0091", "min": 0, "indent": 10 },	
