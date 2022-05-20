@@ -1,0 +1,14 @@
+{
+	"title": "Apple ads",
+
+	"task_enabe": { "value":true, "type": "check", "title": "Enable task", "color": "0x008236", "indent": 10 },
+	
+	"success_launch_max_day": { "value":1, "type": "spin", "title": "Maximum successful launches per day", "color": "0x007DC1", "min": 0 },
+	"success_launch_max_zone": { "value":2, "type": "spin", "title": "Maximum successful launches in 2 hours", "color": "0x007DC1", "min": 0 },
+	"lock_unavailable_launch": { "value":true, "type": "check", "title": "Block task if unavailable", "color": "0x007DC1", "indent": 10 },
+
+	"lock_if_enough_apples": { "value":true, "type": "check", "title": "Block the task if there are enough apples", "color": "0x727F00", "indent": 10 },
+	
+	"finished_pause": { "value":0, "type": "spin", "title": "Pause after completion (ms)", "color": "0x5C0091", "min": 0 },
+	"success_pause": { "value":0, "type": "spin", "title": "Pause after successful completion (ms)", "color": "0x5C0091", "min": 0, "indent": 10 },
+}

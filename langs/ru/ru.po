@@ -376,6 +376,9 @@ msgstr "Ежедневный сундук"
 msgid "Apple ads"
 msgstr "Яблоки за рекламу"
 
+msgid "Gold ads"
+msgstr "Золото за рекламу"
+
 msgid "Enable task"
 msgstr "Включить задачу"
 
@@ -588,3 +591,24 @@ msgstr "Блокировать задачу, если мало яблок"
 
 msgid "Block the task if there are enough apples"
 msgstr "Блокировать задачу, если яблок достаточно"
+
+msgid "Lighthouse"
+msgstr "Маяк"
+
+msgid "Lighthouse ads"
+msgstr "Реклама в маяке"
+
+msgid "Portal ads"
+msgstr "Реклама в портале"
+
+msgid "Lighthouse resources"
+msgstr "Ресурсы в маяке"
+
+msgid "Portal resources"
+msgstr "Ресурсы в портале"
+
+msgid "Gem resources"
+msgstr "Ресурсы в бухте"
+
+msgid "Gem ads"
+msgstr "Реклама в бухте"

@@ -1,5 +1,8 @@
 {
 "tasks": [
+		{
+            "program_type": "gold_ads"
+        },
         {
             "program_type": "cw_start"
         },
@@ -10,16 +13,16 @@
             "program_type": "shop_ads_chest"
         },
         {
-            "program_type": "shop_resources_ads"
+            "program_type": "apple_ads"
         },
         {
-            "program_type": "request_resources"
+            "program_type": "chat_request"
         },
         {
-            "program_type": "get_resources"
+            "program_type": "take_gifts"
         },
         {
-            "program_type": "send_resources"
+            "program_type": "send_gifts"
         },
         {
             "program_type": "quest_ads"
@@ -36,8 +39,26 @@
         {
             "program_type": "arena_resources"
         },
+		{
+            "program_type": "gem_resources"
+        },
+		{
+            "program_type": "portal_resources"
+        },
+		{
+            "program_type": "lighthouse_resources"
+        },
         {
             "program_type": "arena_ads"
+        },
+		{
+            "program_type": "gem_ads"
+        },
+		{
+            "program_type": "portal_ads"
+        },
+		{
+            "program_type": "lighthouse_ads"
         },
         {
             "program_type": "arena"

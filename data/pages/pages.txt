@@ -55,3 +55,10 @@ ads_chest
 chest_content
 daily_chest-1
 daily_chest-2
+lighthouse
+lighthouse_store
+shop_gold
+portal
+portal_store
+gem
+gem_store
