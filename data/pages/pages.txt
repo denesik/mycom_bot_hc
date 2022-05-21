@@ -61,3 +61,5 @@ portal
 portal_store
 gem
 gem_store
+journeys
+squad-journeys

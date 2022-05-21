@@ -244,8 +244,8 @@ msgstr "Время ожидания цикла на арене (миллисек
 msgid "Arena find timeout (ms)"
 msgstr "Время ожидания поиска арены (миллисекунды)"
 
-msgid "Pause after choosing a squad in the arena (ms)"
-msgstr "Пауза после выбора отряда на арене (миллисекунды)"
+msgid "Pause after choosing a squad (ms)"
+msgstr "Пауза после выбора отряда (миллисекунды)"
 
 msgid "Pause after start of arena phase (ms)"
 msgstr "Пауза после старта фазы на арене (миллисекунды)"
@@ -613,8 +613,17 @@ msgstr "Ресурсы в бухте"
 msgid "Gem ads"
 msgstr "Реклама в бухте"
 
+msgid "Journeys ads"
+msgstr "Реклама в путешествиях"
+
+msgid "Journeys"
+msgstr "Путешествия"
+
 msgid "Pause before opening a next enemy (ms)"
 msgstr "Пауза перед открытием следующего врага (миллисекунды)"
 
 msgid "Number of enemies to check"
 msgstr "Количество проверяемых врагов"
+
+msgid "Block the task if the bonus is not active"
+msgstr "Блокировать задачу, если бонус не активен"

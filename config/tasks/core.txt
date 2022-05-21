@@ -13,7 +13,8 @@
 	"open_page_timeout": { "value":4000, "type": "spin", "title": "Page opening timeout (ms)", "color": "0xA87E25", "min": 0 }, 
 	"watchdog_timeout":  { "value":15000, "type": "spin", "title": "Emulator image changing timeout (ms)", "color": "0xA87E25", "min": 0 },	
 	"load_page_timeout": { "value":20000, "type": "spin", "title": "Page loading timeout (ms)", "color": "0xA87E25", "min": 0 },				
-	"battle_timeout": 	 { "value":180000, "type": "spin", "title": "Battle timeout (ms)", "color": "0xA87E25", "min": 0, "indent": 10 },						
+	"battle_timeout": 	 { "value":180000, "type": "spin", "title": "Battle timeout (ms)", "color": "0xA87E25", "min": 0},	
+	"squad_mode_pause":  { "value":1000, "type": "spin", "title": "Pause after choosing a squad (ms)", "color": "0x316B0B", "min": 0, "indent": 10 },					
 	
 	"ads_watch_timeout": { "value":40000, "type": "spin", "title": "Ads watching timeout (ms)", "color": "0x95B515", "min": 0 }, 			
 	"ads_close_timeout": { "value":20000, "type": "spin", "title": "Ads closing timeout (ms)", "color": "0x95B515", "min": 0 }, 			
@@ -21,7 +22,6 @@
 	
 	"arena_loop_timeout": { "value":120000, "type": "spin", "title": "Arena loop timeout (ms)", "color": "0x316B0B", "min": 0 },			
 	"arena_find_timeout": { "value":600000, "type": "spin", "title": "Arena find timeout (ms)", "color": "0x316B0B", "min": 0 },			
-	"arena_squad_mode_pause": { "value":1000, "type": "spin", "title": "Pause after choosing a squad in the arena (ms)", "color": "0x316B0B", "min": 0 },
 	"arena_start_phase_pause": { "value":3000, "type": "spin", "title": "Pause after start of arena phase (ms)", "color": "0x316B0B", "min": 0 }, 		
 	"arena_open_opponent_timeout": { "value":2000, "type": "spin", "title": "Arena opponent opening timeout (ms)", "color": "0x316B0B", "min": 0, "indent": 10 }, 					 
 	
