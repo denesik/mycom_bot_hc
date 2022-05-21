@@ -36,7 +36,6 @@ notebook-storyline
 another_device
 arena_cancel
 gate
-gate_boss
 friends
 top_players
 submap

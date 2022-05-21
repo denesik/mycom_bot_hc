@@ -54,7 +54,5 @@
 	"recovery_loop_timeout": { "value":30000, "type": "spin", "title": "Recovering system timeout (ms)", "color": "0xD32C77", "min": 0 },	
 	"recovery_main_pause": { "value":2000, "type": "spin", "title": "Pause after detecting the castle page in an recovering system (ms)", "color": "0xD32C77", "min": 0, "indent": 10 },			
 	
-	"gate_choose_boss_pause": { "value":2000, "type": "spin", "title": "gate_choose_boss_pause (ms) [under development]", "min": 0, "indent": 10 }, 		
-	
 	"blacklist_hours": { "value":72, "type": "spin", "title": "blacklist_hours (hours) [under development]", "min": 0, "indent": 10 }, 
 }
