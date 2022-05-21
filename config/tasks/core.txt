@@ -37,7 +37,8 @@
 	
 	"invasion_check_timeout": { "value":2000, "type": "spin", "title": "Timeout to check availability of invasion (ms)", "color": "0x5331CE", "min": 0, "indent": 10 },		
 	
-	"enemy_find_timeout": { "value":2000, "type": "spin", "title": "Enemy finding on a map timeout (ms)", "color": "0x6C1ECC", "min": 0, "indent": 10 }, 			
+	"enemy_find_timeout": { "value":2000, "type": "spin", "title": "Enemy finding on a map timeout (ms)", "color": "0x6C1ECC", "min": 0, "indent": 10 }, 
+	"enemy_next_pause": { "value":1000, "type": "spin", "title": "Pause before opening a next enemy (ms)", "color": "0x0E26A0", "min": 0, "indent": 10 }, 				
 		
 	
 	

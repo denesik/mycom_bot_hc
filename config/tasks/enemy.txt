@@ -4,7 +4,8 @@
 	"task_enabe": { "value":true, "type": "check", "title": "Enable task", "color": "0x008236", "indent": 10 },
 
 	"enemy_power_scale_max": { "value":100, "type": "spin", "title": "Upper power threshold", "color": "0xFF9D00", "min": 0 },
-	"enemy_power_scale_min": { "value":0, "type": "spin", "title": "Lower power threshold", "color": "0xFF9D00", "min": 0, "indent": 10 },	
+	"enemy_power_scale_min": { "value":0, "type": "spin", "title": "Lower power threshold", "color": "0xFF9D00", "min": 0 },	
+	"enemy_count": { "value":10, "type": "spin", "title": "Number of enemies to check", "color": "0xFF9D00", "min": 0, "indent": 20 },	
 
 	"ignore_few_spell": { "value":true, "type": "check", "title": "Ignore warning not enough spells", "color": "0xFF2E00" },
 	"ignore_few_squad": { "value":true, "type": "check", "title": "Ignore the warning not enough fighters", "color": "0xFF2E00" },

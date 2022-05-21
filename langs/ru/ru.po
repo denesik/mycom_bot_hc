@@ -612,3 +612,9 @@ msgstr "Ресурсы в бухте"
 
 msgid "Gem ads"
 msgstr "Реклама в бухте"
+
+msgid "Pause before opening a next enemy (ms)"
+msgstr "Пауза перед открытием следующего врага (миллисекунды)"
+
+msgid "Number of enemies to check"
+msgstr "Количество проверяемых врагов"
