@@ -13,6 +13,7 @@ opponent-enemy
 opponent-invasion
 opponent-gate
 opponent-lighthouse
+opponent-gem
 battle-1
 battle-2
 battle_end
@@ -20,12 +21,15 @@ mail
 invasion
 invasion_reward
 warning_spell-1
+warning_spell-2
 warning_squad-1
+warning_squad-gem
 warning_health-1
 warning_resources-1
 warning_resources-2
 warning_resources-energy
 warning_owner_online-1
+warning-gem_claim
 reward_ads
 return_apple_ads
 cw_field
@@ -62,7 +66,10 @@ shop_gold
 portal
 portal_store
 gem
+gem_over
 gem_store
+gem_chest
 journeys
 squad-journeys
+squad-gem
 claim

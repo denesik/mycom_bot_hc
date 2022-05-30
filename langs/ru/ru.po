@@ -607,6 +607,9 @@ msgstr "Ресурсы в маяке"
 msgid "Portal resources"
 msgstr "Ресурсы в портале"
 
+msgid "Gem"
+msgstr "Бухта"
+
 msgid "Gem resources"
 msgstr "Ресурсы в бухте"
 
@@ -627,3 +630,6 @@ msgstr "Количество проверяемых врагов"
 
 msgid "Block the task if the bonus is not active"
 msgstr "Блокировать задачу, если бонус не активен"
+
+msgid "Watch ads if squad is dead"
+msgstr "Смотреть рекламу, если отряд мертв"
