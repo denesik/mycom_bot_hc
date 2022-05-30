@@ -12,6 +12,7 @@ opponent-arena
 opponent-enemy
 opponent-invasion
 opponent-gate
+opponent-lighthouse
 battle-1
 battle-2
 battle_end
@@ -23,6 +24,7 @@ warning_squad-1
 warning_health-1
 warning_resources-1
 warning_resources-2
+warning_resources-energy
 warning_owner_online-1
 reward_ads
 return_apple_ads
@@ -63,3 +65,4 @@ gem
 gem_store
 journeys
 squad-journeys
+claim
