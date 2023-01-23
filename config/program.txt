@@ -1,70 +1,70 @@
 {
 "tasks": [
 		{
-            "program_type": "gold_ads"
+            "gold_ads": {}
         },
         {
-            "program_type": "cw_start"
+            "cw_start": {}
         },
         {
-            "program_type": "shop_daily_chest"
+            "shop_daily_chest": {}
         },
         {
-            "program_type": "shop_ads_chest"
+            "shop_ads_chest": {}
         },
         {
-            "program_type": "apple_ads"
+            "apple_ads": {}
         },
         {
-            "program_type": "chat_request"
+            "chat_request": {}
         },
         {
-            "program_type": "take_gifts"
+            "take_gifts": {}
         },
         {
-            "program_type": "send_gifts"
+            "send_gifts": {}
         },
         {
-            "program_type": "quest_ads"
+            "quest_ads": {}
         },
         {
-            "program_type": "cw"
+            "cw": {}
         },
         {
-            "program_type": "invasion"
+            "invasion": {}
         },
         {
-            "program_type": "enemy"
+            "enemy": {}
         },
         {
-            "program_type": "arena_resources"
+            "arena_resources": {}
         },
 		{
-            "program_type": "gem_resources"
+            "gem_resources": {}
         },
 		{
-            "program_type": "portal_resources"
+            "portal_resources": {}
         },
 		{
-            "program_type": "lighthouse_resources"
+            "lighthouse_resources": {}
         },
         {
-            "program_type": "arena_ads"
+            "arena_ads": {}
         },
 		{
-            "program_type": "gem_ads"
+            "gem_ads": {}
         },
 		{
-            "program_type": "portal_ads"
+            "portal_ads": {}
         },
 		{
-            "program_type": "lighthouse_ads"
+            "lighthouse_ads": {}
         },
         {
-            "program_type": "arena"
+            "arena": {}
         },
         {
-            "program_type": "nothing"
+            "nothing": {}
         }
     ]
 }

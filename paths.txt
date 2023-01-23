@@ -8,8 +8,8 @@
 		"sounds_dir": "data\\sounds",
 		"captcha_sounds_dir": "data\\sounds\\captcha",
 		"train_dir": "traindata",
-		"config_tasks_dir": "config\\tasks",
-		"config_tasks_core": "config\\core_task.txt",
+		"config_tasks_dir": "config\\program\\tasks",
+		"config_tasks_core": "config\\program\\core.txt",
 		"langs_dir": "langs",
 
 		"train_file": "traindata\\train.xml",
