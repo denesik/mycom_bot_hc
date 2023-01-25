@@ -68,7 +68,8 @@ portal
 portal_store
 portal_closed
 gem
-gem_over
+gem_over-1
+gem_over-2
 gem_store
 gem_chest
 journeys
