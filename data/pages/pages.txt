@@ -29,7 +29,8 @@ warning_resources-1
 warning_resources-2
 warning_resources-energy
 warning_owner_online-1
-warning-gem_claim
+warning_more_units-1
+warning_gem_claim
 reward_ads
 return_apple_ads
 cw_field
@@ -65,6 +66,7 @@ lighthouse_store
 shop_gold
 portal
 portal_store
+portal_closed
 gem
 gem_over
 gem_store

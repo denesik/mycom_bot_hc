@@ -18,9 +18,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n"
-"%100<12 || n%100>14) ? 1 : 2);\n"
-"X-Generator: Poedit 3.0.1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && "
+"(n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.2.2\n"
 "X-Generator: Poedit 3.0.1\n"
 "X-Poedit-Basepath: ../../../src/editor\n"
 "X-Poedit-KeywordsList: _\n"
@@ -633,3 +633,12 @@ msgstr "Блокировать задачу, если бонус не актив
 
 msgid "Watch ads if squad is dead"
 msgstr "Смотреть рекламу, если отряд мертв"
+
+msgid "Fill"
+msgstr "Заполнить"
+
+msgid "Requirement"
+msgstr "Требование"
+
+msgid "Emulator type and number"
+msgstr "Тип и номер эмулятора"
