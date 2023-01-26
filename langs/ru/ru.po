@@ -642,3 +642,6 @@ msgstr "Требование"
 
 msgid "Emulator type and number"
 msgstr "Тип и номер эмулятора"
+
+msgid "Enable saving screenshots with numbers"
+msgstr "Включить сохранение скриншотов с числами"
