@@ -93,9 +93,7 @@
         "ocr",
         "ocr/known",
         "ocr/known/digits",
-        "ocr/known/train",
-        "traindata",
-        "traindata/data"
+        "ocr/known/train"
     ],
     "build_files": [
         "avcodec-59.dll",
@@ -800,7 +798,6 @@
         "start.bat",
         "swresample-4.dll",
         "swscale-6.dll",
-        "traindata/train.xml",
         "updater.exe",
         "updater.pdb",
         "vcruntime140_1.dll",
