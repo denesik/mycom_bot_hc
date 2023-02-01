@@ -8,9 +8,15 @@
 		"sounds_dir": "data\\sounds",
 		"captcha_sounds_dir": "data\\sounds\\captcha",
 		"train_dir": "traindata",
+		"train_data_dir": "traindata\\data",
 		"config_tasks_dir": "config\\program\\tasks",
 		"config_tasks_core": "config\\program\\core.txt",
 		"langs_dir": "langs",
+
+		"ocr_unknown": "ocr\\unknown",
+		"ocr_test": "ocr\\known\\test",
+		"ocr_train": "ocr\\known\\train",
+		"ocr_digits": "ocr\\known\\digits",
 
 		"train_file": "traindata\\train.xml",
 		"captcha_core_file": "config\\captcha.txt", 
